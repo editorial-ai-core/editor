@@ -1,8 +1,4 @@
 
-// To use this component, you need to install react-markdown and remark-gfm:
-// npm install react-markdown remark-gfm
-// yarn add react-markdown remark-gfm
-
 import React from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
